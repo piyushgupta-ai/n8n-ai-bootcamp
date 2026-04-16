@@ -1,9 +1,11 @@
-User Name: piyush  
+User Name: piyush
 
-Submitted: 2026-04-16T10:05:49.034-07:00  
+Submitted: 2026-04-16T10:05:49.034-07:00
 
-Description: Can multiple users work in the same account?  
+Description: Can multiple users work in the same account?
 
-Status: Open 
+Status: Open
+Prio: Urgent
 
-Prio: Not Urgent
+Activity Log:
+2024-05-13T14:38:08 UTC - Ticket priority updated to Urgent.
