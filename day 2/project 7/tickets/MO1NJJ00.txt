@@ -1,0 +1,9 @@
+User Name: Piyush  
+
+Submitted: 2026-04-16T08:46:34.609-07:00  
+
+Description: User Piyush reports VPN connection is not available. Troubleshooting steps (check internet, restart client, restart PC) did not resolve the issue.  
+
+Status: Open 
+
+Prio: Urgent
